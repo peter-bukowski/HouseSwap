@@ -1,0 +1,6 @@
+[submodule "House-Swap"]
+	path = House-Swap
+	url = https://github.com/peter-bukowski/House-Swap.git
+[submodule "HouseSwapFrontend"]
+	path = HouseSwapFrontend
+	url = https://github.com/peter-bukowski/House-Swap.git
