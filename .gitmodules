@@ -3,4 +3,4 @@
 	url = https://github.com/peter-bukowski/House-Swap.git
 [submodule "HouseSwapFrontend"]
 	path = HouseSwapFrontend
-	url = https://github.com/peter-bukowski/House-Swap.git
+	url = https://github.com/peter-bukowski/HouseSwap-Client-.git
